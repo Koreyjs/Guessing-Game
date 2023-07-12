@@ -28,7 +28,7 @@ def main():
         play_game(limit)
         again = input("Would you like to play again? (yes/no):   ")
         print()
-    print("Thank for playing. Bye!")
+    print("Thanks for playing. Bye!")
 
 if __name__ == "__main__":
     main()
