@@ -26,7 +26,7 @@ def main():
     while again. lower() == "yes":
         limit = int(input("Enter the limit:     "))
         play_game(limit)
-        again = input("Would you like to play again? (yes/no:   ")
+        again = input("Would you like to play again? (yes/no):   ")
         print()
     print("Thank for playing. Bye!")
 
